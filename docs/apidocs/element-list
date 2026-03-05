@@ -1,0 +1,15 @@
+kp
+kp.cdi
+kp.cdi.alternatives
+kp.cdi.decorators
+kp.cdi.events
+kp.cdi.events.observers
+kp.cdi.interceptors
+kp.cdi.producers
+kp.restful
+kp.restful.client
+kp.restful.data
+kp.util
+kp.validation
+kp.validation.data
+kp.validation.data.impl
